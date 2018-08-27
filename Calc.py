@@ -7,4 +7,6 @@ def mul(x,y):
 def div(x,y):
 	return x/y
 def xor(x,y):
-	return X^y
+	return x^y
+def nxor(x,y):
+	return x^y+x
