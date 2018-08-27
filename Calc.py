@@ -6,3 +6,5 @@ def mul(x,y):
 	return x*y
 def div(x,y):
 	return x/y
+def xor(x,y):
+	return X^y
